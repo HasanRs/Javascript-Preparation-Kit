@@ -1,1 +1,3 @@
-# Javascript-Preparation-Kit
+# Javascript Preparation Kit
+
+documentation coming soon..
